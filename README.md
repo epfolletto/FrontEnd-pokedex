@@ -52,6 +52,7 @@ Olavo Marques do Nascimento; Márleo Piber da Rosa; Evandro Paulo Folletto.
 # `Imagens`
 ### Página Home
 <img src="./alves-pokedex1/src/assets/img_readme/site1.png"/>
+
 ### Página Home
 <img src="./alves-pokedex1/src/assets/img_readme/site2.png"/>
 ### Página Detalhe
