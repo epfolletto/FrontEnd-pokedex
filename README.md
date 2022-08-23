@@ -6,10 +6,8 @@ Projeto Pokédex
 
 # `Descrição`
 O Projeto Pokédex foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a PokéApi, que é uma API pública* com informações relacionadas aos Pokémons.
-Trata-se de uma ferramenta onde o usuário pode verificar os detalhes de todos os Pokémons, adicionar os mesmos a sua Pokédex e também criar batalhas entre Pokémons para ver qual é o vencedor.
+Trata-se de uma ferramenta onde o usuário pode verificar os detalhes de todos os Pokémons, adicionar os mesmos a sua Pokédex e também criar batalhas entre Pokémons para ver qual é o vencedor. </br>
 *a API pode ser encontrada [aqui](https://pokeapi.co/)
-</br>
-O repositório do projeto pode ser encontrado [aqui](https://github.com/future4code/Alves-pokedex1)
 
 # `Modo de usar`
 Ao iniciar a ferramenta o usuário pode ver uma lista com vinte cards de Pokémons, e, na parte inferior da lista existe uma paginação, onde o usuário pode clicar em outras páginas para carregar mais Pokémons. Nestes cards, o usuário pode clicar em "Detalhes" ou em "Capturar!".
