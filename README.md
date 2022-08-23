@@ -55,11 +55,15 @@ Olavo Marques do Nascimento; Márleo Piber da Rosa; Evandro Paulo Folletto.
 
 ### Página Home
 <img src="./alves-pokedex1/src/assets/img_readme/site2.png"/>
+
 ### Página Detalhe
 <img src="./alves-pokedex1/src/assets/img_readme/site3.png"/>
+
 ### Página Pokédex
 <img src="./alves-pokedex1/src/assets/img_readme/site4.png"/>
+
 ### Página Batalha
 <img src="./alves-pokedex1/src/assets/img_readme/site5.png"/>
+
 ### Página Batalha
 <img src="./alves-pokedex1/src/assets/img_readme/site6.png"/>
