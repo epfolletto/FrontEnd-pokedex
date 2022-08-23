@@ -47,7 +47,9 @@ Rodar o projeto:
 </div>
 
 # `Autores`
-Olavo Marques do Nascimento; Márleo Piber da Rosa; Evandro Paulo Folletto.
+Evandro Paulo Folletto </br>
+Márleo Piber da Rosa </br>
+Olavo Marques do Nascimento </br>
 
 # `Imagens`
 ### Página Home
