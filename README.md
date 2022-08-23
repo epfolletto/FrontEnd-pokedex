@@ -2,8 +2,7 @@
 Projeto Pokédex
 
 # `Link`
-https://pokedex-alves1.surge.sh
-
+[Clique aqui!](https://pokedex-alves1.surge.sh)
 
 # `Descrição`
 O Projeto Pokédex foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a PokéApi, que é uma API pública* com informações relacionadas aos Pokémons.
