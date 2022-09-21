@@ -5,7 +5,7 @@ Projeto Pokédex
 [Clique aqui!](https://pokedex-alves1.surge.sh)
 
 # `Descrição`
-[Projeto desenvolvido na semana 11 do curso Labenu]. </br>
+[Projeto desenvolvido na semana 12 do curso Labenu]. </br>
 O Projeto Pokédex foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste em requisições (via axios) para a PokéApi, que é uma API pública* com informações relacionadas aos Pokémons.
 Trata-se de uma ferramenta onde o usuário pode verificar os detalhes de todos os Pokémons, adicionar os mesmos a sua Pokédex e também criar batalhas entre Pokémons para ver qual é o vencedor. </br>
 *a API pode ser encontrada [aqui](https://pokeapi.co/)
