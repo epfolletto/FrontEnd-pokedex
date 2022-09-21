@@ -50,6 +50,7 @@ Márleo Piber da Rosa </br>
 Olavo Marques do Nascimento </br>
 
 # `Imagens`
+
 ### Página Home
 <img src="./alves-pokedex1/src/assets/img_readme/site1.png"/>
 
